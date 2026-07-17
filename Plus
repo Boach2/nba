@@ -1,30 +1,32 @@
-Oklahoma City Thunder,12.56
-Cleveland Cavaliers,8.82
-Boston Celtics,8.67
-Minnesota Timberwolves,5.32
-Los Angeles Clippers,4.93
-Houston Rockets,4.79
-Memphis Grizzlies,4.65
-Denver Nuggets,3.85
-New York Knicks,3.59
-Golden State Warriors,3.53
-Milwaukee Bucks,2.12
-Detroit Pistons,1.77
-Indiana Pacers,1.75
-Los Angeles Lakers,1.45
-Sacramento Kings,0.62
-Miami Heat,0.09
-Orlando Magic,-0.66
-Dallas Mavericks,-0.71
-Atlanta Hawks,-1.27
-Chicago Bulls,-1.75
-San Antonio Spurs,-2.41
-Portland Trail Blazers,-2.50
-Phoenix Suns,-2.60
-Toronto Raptors,-4.51
-Philadelphia 76ers,-6.46
-Brooklyn Nets,-7.04
-Utah Jazz,-8.54
-New Orleans Pelicans,-8.78
-Charlotte Hornets,-9.25
-Washington Wizards,-12.02
+,,Adju
+Rk,Team,NRtg/A
+1,OKC,12.56
+2,CLE,8.82
+3,BOS,8.67
+4,MIN,5.32
+5,LAC,4.93
+6,HOU,4.79
+7,MEM,4.65
+8,DEN,3.85
+9,NYK,3.59
+10,GSW,3.53
+11,MIL,2.12
+12,DET,1.77
+13,IND,1.75
+14,LAL,1.45
+15,SAC,0.62
+16,MIA,0.09
+17,Orlando Magic,-0.66
+18,DAL,-0.71
+19,ATL,-1.27
+20,CHI,-1.75
+21,SAS,-2.41
+22,POR,-2.50
+23,PHX,-2.60
+24,TOR,-4.51
+25,PHI,-6.46
+26,BKN,-7.04
+27,UTA,-8.54
+28,NOP,-8.78
+29,CHA,-9.25
+30,WAS,-12.02
