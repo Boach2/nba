@@ -1,0 +1,34 @@
+Team,Wins,Starting_Center,IS_A_BIG,Adjusted_Plus_Minus
+OKC,68,Chet_Holmgren,TRUE,4.136752
+BOS,61,Kristaps_Porzingis,TRUE,0.649436
+CLE,64,Jarret_Allen,TRUE,2.78725
+MIN,49,Rudy_Gobert,TRUE,2.438251
+LAC,50,Ivica_Zubac,TRUE,4.499934
+MEM,48,Zach_Edey,TRUE,0.716015
+HOU,52,Alperen_Sengun,TRUE,3.557975
+NYK,51,Karl_Anthony_Towns,TRUE,3.955461
+DEN,50,Nikola_Jokic,TRUE,7.047672
+GSW,48,Draymond,FALSE,2.680335
+MIL,48,Brook_Lopez,TRUE,0.964881
+IND,50,Myles_Turner,TRUE,2.218273
+DET,44,Jalen_Duren,TRUE,-0.090019
+LAL,50,Jaxson_Hayes,TRUE,1.142644
+LAL,50,Anthony_Davis,TRUE,0.93812
+MIA,37,Bam_Adebayo,TRUE,0.406462
+SAC,40,Domantas_Sabonis,TRUE,1.986739
+ORL,41,Wendell_Carter_JR,TRUE,0.217391
+ATL,40,Clint_Capela,TRUE,-0.72972
+ATL,40,Onyeka_Okongwu,TRUE,1.17028
+DAL,39,Daniel Gafford,TRUE,1.03812
+CHI,39,Nikola_Vucevic,TRUE,-0.430726
+SAS,34,Victor_Wembanyama,TRUE,3.342892
+POR,36,Donovan_Clingan,TRUE,1.180203
+PHX,36,Mark_Williams,TRUE,-2.821437
+TOR,30,Jakob_Poeltl,TRUE,1.413492
+PHI,24,Andre Drummond,TRUE,-3.278092
+BKN,26,Nic_Claxton,TRUE,-4.037641
+UTA,17,Walker_Kessler,TRUE,-2.015783
+CHA,19,Mark_Williams,TRUE,-2.821437
+NOP,21,Yves_Missi,TRUE,-3.216286
+WAS,18,Alex_Sar,TRUE,-2.973073
+,,,,
